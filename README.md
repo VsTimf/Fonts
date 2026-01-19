@@ -1,7 +1,9 @@
-## Fonts
-Windows 1251 fonts for tiny displays. Generated in "MatrixFont" app.
 
-### Fonts included
+# Fonts
+
+Windows 1251 fonts for tiny displays. Generated in [MatrixFont](https://gitlab.com/riva-lab/matrixFont) app.
+
+## Fonts included
 
 | Font     | Height in pixels | ASCII symbols |
 | -------- |:----------------:|:-------------:|
